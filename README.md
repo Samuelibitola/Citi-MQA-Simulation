@@ -44,7 +44,7 @@ I recently completed Citi's Markets Quantitative Analysis (MQA) virtual experien
 - Applied strategies to real-life scenarios, such as hedging against coffee price increases, mitigating supplier credit risk, and reducing trading errors.
 
 ## Certificate of Completion
-  <img width="1920" height="1080" alt="Market Quantitative Analysis Certificate" src="https://github.com/user-attachments/assets/de2dd0db-ce23-4046-ade9-74ffbbbd68be" />
+![MQA Certificate](Market%20Quantitative%20Analysis%20Certificate.png)
 
 
 
