@@ -20,6 +20,7 @@ I recently completed Citi's Markets Quantitative Analysis (MQA) virtual experien
   - **Monte Carlo Simulations** to forecast a range of potential outcomes
 - Learned how changes in supply, demand, weather, and geopolitical events impact pricing.
 - Built an **analytical framework for coffee futures**, incorporating volatility, storage costs, and interest rates.
+     [To preview the Task](https://github.com/Samuelibitola/Citi-MQA-Simulation/blob/main/Step%20by%20step%20guide%20(1).pdf)
 
 ### Task 3: Hedging and Structuring Securities
 - Developed **hedging strategies** using derivatives:
@@ -31,6 +32,7 @@ I recently completed Citi's Markets Quantitative Analysis (MQA) virtual experien
   - **Digital options** for high-risk investors
   - **ETFs** for portfolio diversification
 - Conducted **quantitative analysis** for scenario planning and risk mitigation.
+    [To preview the Task](https://github.com/Samuelibitola/Citi-MQA-Simulation/blob/main/Task%203%20Risk%20Management%20Analysis.pdf)
 
 ### Task 4: Managing Risk Across Market Trade Units
 - Measured and monitored market risk using:
@@ -42,7 +44,9 @@ I recently completed Citi's Markets Quantitative Analysis (MQA) virtual experien
 - Applied strategies to real-life scenarios, such as hedging against coffee price increases, mitigating supplier credit risk, and reducing trading errors.
 
 ## Certificate of Completion
-![Market Quantitative Analysis Certificate](Market%20Quantitative%20Analysis%20Certificate.png)
+  <img width="1920" height="1080" alt="Market Quantitative Analysis Certificate" src="https://github.com/user-attachments/assets/de2dd0db-ce23-4046-ade9-74ffbbbd68be" />
+
+
 
 ## Forage Simulation
 Experience the simulation yourself: [Citi MQA Forage Simulation](https://www.theforage.com/simulations/citi/global-quantitative-analysis-analyst-6b4m)
